@@ -1,1 +1,2 @@
 install "Dev Kit" extension
+install .NET SDK
