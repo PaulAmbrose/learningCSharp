@@ -1,0 +1,9 @@
+Install .NET SDK
+
+Run command in terminal at required location
+
+dotnet new console -o ./[filepath]
+
+dotnet build
+
+dotnet run
