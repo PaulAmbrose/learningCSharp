@@ -38,13 +38,8 @@ class Program
         Kitchen kitchen = new Kitchen();
 
         kitchen.AddItem("spoon");
-        kitchen.AddItem("plate");
-        kitchen.AddItem("bowl");
-
         kitchen.PrintItems();
-
         kitchen.RemoveItem("spoon");
-
         kitchen.PrintItems();
     }
 }
