@@ -37,12 +37,12 @@ class Program
     static void Main(string[] args)
     {
         Kitchen kitchen = new Kitchen();
+        Food.FoodItem pizza = new FoodItem("Pizza", 1, 10);
 
         kitchen.AddItem("spoon");
         kitchen.PrintItems();
         kitchen.RemoveItem("spoon");
         kitchen.PrintItems();
-        Food.FoodItem pizza = new FoodItem("Pizza", 1, 10);
         Console.WriteLine(pizza);
     }
 }
