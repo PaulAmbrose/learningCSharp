@@ -1,4 +1,5 @@
 ﻿using System;
+using Food;
 
 class Kitchen
 {
@@ -41,5 +42,7 @@ class Program
         kitchen.PrintItems();
         kitchen.RemoveItem("spoon");
         kitchen.PrintItems();
+        Food.FoodItem pizza = new FoodItem("Pizza", 1, 10);
+        Console.WriteLine(pizza);
     }
 }
