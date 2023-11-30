@@ -39,7 +39,7 @@ class Program
     {
         Kitchen kitchen = new Kitchen();
         FoodItem pizza = new FoodItem("Pizza", 1, 10);
-        Shopping newList = new List();
+        List newList = new List();
 
 
         //create a kitchen - add and remove items

@@ -1,5 +1,3 @@
-using shopping;
-
 namespace Food
 {
 public class FoodItem
