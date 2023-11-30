@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace shopping
+namespace Shopping
 {
 class List {
     private List<string> foodItems;

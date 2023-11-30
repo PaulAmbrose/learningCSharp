@@ -1,5 +1,6 @@
 ﻿using System;
 using Food;
+using Shopping;
 
 class Kitchen
 {
@@ -38,7 +39,7 @@ class Program
     {
         Kitchen kitchen = new Kitchen();
         FoodItem pizza = new FoodItem("Pizza", 1, 10);
-        //create a list
+        Shopping newList = new List();
 
 
         //create a kitchen - add and remove items
