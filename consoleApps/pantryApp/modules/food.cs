@@ -14,28 +14,9 @@ public class FoodItem
         this.amount = amount;
         this.cost = cost;
     }
-
-    public string Name
-    {
-        get { return name; }
-        set { name = value; }
-    }
-
-    public double Amount
-    {
-        get { return amount; }
-        set { amount = value; }
-    }
-
-    public double Cost
-    {
-        get { return cost; }
-        set { cost = value; }
-    }
-
     public override string ToString()
     {
-        return Name + ": Amount: " + Amount + ", Cost: " + Cost;
+        return name + ": Amount: " + amount + ", Cost: " + cost;
     }
     }
 }
