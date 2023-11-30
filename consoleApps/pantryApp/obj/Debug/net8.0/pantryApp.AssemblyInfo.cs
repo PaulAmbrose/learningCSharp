@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pantryApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e744e2129d8277eec499822e4e3f8c3ccde7479")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d7ed954752f81355771b6f5f12937380ea3ca75")]
 [assembly: System.Reflection.AssemblyProductAttribute("pantryApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pantryApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

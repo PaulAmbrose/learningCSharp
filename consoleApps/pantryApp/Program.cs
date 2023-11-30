@@ -37,12 +37,23 @@ class Program
     static void Main(string[] args)
     {
         Kitchen kitchen = new Kitchen();
-        Food.FoodItem pizza = new FoodItem("Pizza", 1, 10);
+        FoodItem pizza = new FoodItem("Pizza", 1, 10);
+        //create a list
 
+
+        //create a kitchen - add and remove items
         kitchen.AddItem("spoon");
         kitchen.PrintItems();
         kitchen.RemoveItem("spoon");
         kitchen.PrintItems();
+
+        //craeate a food item.
         Console.WriteLine(pizza);
+
+        //print the list
+        //add pizza to the list
+        //print the list
+        //remove pizza from the list
+
     }
 }

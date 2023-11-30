@@ -1,3 +1,4 @@
+using shopping;
 
 namespace Food
 {
@@ -6,6 +7,7 @@ public class FoodItem
     private string name;
     private double amount;
     private double cost;
+    
 
     public FoodItem(string name, double amount, double cost)
     {
