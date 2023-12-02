@@ -1,4 +1,4 @@
-namespace Food
+namespace foodSpace
 {
 public class FoodItem
 {
