@@ -1,1 +1,6 @@
-
+Basic IDE config for C#/.net - VS/VSCode - (set up scripts?)
+Creating a console app project - VS/VS code
+Boiler plate for classes
+Writing classes in C# and linking to a main program
+Pantry App
+Other useful idea?
