@@ -1,8 +1,0 @@
-namespace shoppingSpace
-{
-class List {
-
-
-
-}
-}
