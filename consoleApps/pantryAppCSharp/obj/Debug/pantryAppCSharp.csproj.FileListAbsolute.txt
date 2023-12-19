@@ -1,0 +1,7 @@
+C:\Users\PAmbrose\OneDrive - Clarion Housing Group Limited\Desktop\CSharpStaging\pantryAppCSharp\bin\Debug\pantryAppCSharp.exe.config
+C:\Users\PAmbrose\OneDrive - Clarion Housing Group Limited\Desktop\CSharpStaging\pantryAppCSharp\bin\Debug\pantryAppCSharp.exe
+C:\Users\PAmbrose\OneDrive - Clarion Housing Group Limited\Desktop\CSharpStaging\pantryAppCSharp\bin\Debug\pantryAppCSharp.pdb
+C:\Users\PAmbrose\OneDrive - Clarion Housing Group Limited\Desktop\CSharpStaging\pantryAppCSharp\obj\Debug\pantryAppCSharp.csproj.AssemblyReference.cache
+C:\Users\PAmbrose\OneDrive - Clarion Housing Group Limited\Desktop\CSharpStaging\pantryAppCSharp\obj\Debug\pantryAppCSharp.csproj.CoreCompileInputs.cache
+C:\Users\PAmbrose\OneDrive - Clarion Housing Group Limited\Desktop\CSharpStaging\pantryAppCSharp\obj\Debug\pantryAppCSharp.exe
+C:\Users\PAmbrose\OneDrive - Clarion Housing Group Limited\Desktop\CSharpStaging\pantryAppCSharp\obj\Debug\pantryAppCSharp.pdb

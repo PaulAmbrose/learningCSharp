@@ -10,6 +10,8 @@ namespace pantryAppCSharp
     {
         static void Main(string[] args)
         {
+            Kitchen mykitchen = new Kitchen();
+            mykitchen.AddItems();
         }
     }
 }
