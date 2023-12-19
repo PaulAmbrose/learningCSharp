@@ -19,12 +19,14 @@ namespace reader
             }
 
             using (StreamReader reader = new StreamReader(filePath))
-            {
+            { 
                 string line;
                 while ((line = reader.ReadLine()) != null)
                 {
                     Console.WriteLine(line);
-                    Console.WriteLine("***");
+                    Console.Write("Please state location for this item:  ");
+                    string UserLocattion= Console.ReadLine();
+                    Console.WriteLine("================");
                 }
             }
 
