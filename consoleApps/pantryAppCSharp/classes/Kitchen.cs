@@ -1,17 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using reader;
+﻿using System.Collections.Generic;
 
 
 namespace pantryAppCSharp
 {
-    class Kitchen
+    public class Kitchen
     {
         public string Name = "myKitchen";
         public string shoppingListLocation = "C:/Users/PAmbrose/OneDrive - Clarion Housing Group Limited/Desktop/CSharpStaging/pantryAppCSharp/shoppingList/List1.txt";
+        public string[] locationsArrayForReference = new string[] { "fridge", "freezer", "storeCupboard", "fruitBowl" };
 
         public List<string> fridge = new List<string>();
         public List<string> freezer = new List<string>();
@@ -21,12 +17,12 @@ namespace pantryAppCSharp
         public int TransferFailure;
         public int TransferSuccess;
 
-        public void AddItems()
+        public void AddItems(Kitchen AKitchen)
         {
             TransferFailure = 0;
             TransferSuccess = 0;
 
-            FileHandler.ReadLinesAndPrint(shoppingListLocation);
+            FileHandler.ReadLinesAndPrint(shoppingListLocation, AKitchen);
         }
     }
 }

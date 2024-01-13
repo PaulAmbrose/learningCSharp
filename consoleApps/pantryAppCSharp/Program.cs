@@ -11,13 +11,16 @@ namespace pantryAppCSharp
         static void Main(string[] args)
         {
 
-            //test1
+            /*Test1 - Able to create a kitchen, complete with places for food to be stored:
+            fridge, freezer, store cupboards, fruit bowl */
+            
             Kitchen mykitchen = new Kitchen();
-            Console.WriteLine(mykitchen.Name);
+                Console.WriteLine(mykitchen.Name);
             mykitchen.fridge.Add("TestItem");
-            Console.WriteLine(mykitchen.fridge[0]);
+                Console.WriteLine(mykitchen.fridge[0]);
 
-            mykitchen.AddItems();
+            //Test3
+            mykitchen.AddItems(mykitchen);
         }
     }
 }
