@@ -8,7 +8,7 @@ namespace pantryAppCSharp
 {
     class Program
     {
-        static void Main(string[] args)
+         static void Main(string[] args)
         {
 
             /*Test1 - Able to create a kitchen, complete with places for food to be stored:
@@ -21,6 +21,10 @@ namespace pantryAppCSharp
 
             //Test3
             mykitchen.AddItems(mykitchen);
+            Console.WriteLine("Press any key to exit...");
+            Console.ReadKey();
+
+
         }
     }
 }
