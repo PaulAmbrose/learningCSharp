@@ -1,0 +1,1 @@
+﻿https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-08-2-using-class-constructors-with-derived-classes/
