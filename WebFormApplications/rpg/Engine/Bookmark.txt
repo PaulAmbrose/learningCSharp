@@ -2,3 +2,4 @@
 https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-09-1-using-your-classes-as-datatypes/
 https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-10-1-creating-collections-of-objects/
 https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-11-1-using-a-static-class/
+https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-12-1-add-the-remaining-ui-controls/
