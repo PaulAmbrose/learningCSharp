@@ -1,0 +1,12 @@
+﻿https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-08-2-using-class-constructors-with-derived-classes/
+https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-09-1-using-your-classes-as-datatypes/
+https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-10-1-creating-collections-of-objects/
+https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-11-1-using-a-static-class/
+https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-12-1-add-the-remaining-ui-controls/
+https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-13-1-functions-procedures-and-methods/
+https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-13-2-creating-functions-to-handle-user-input/
+https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-14-1-variables/
+https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-14-2-if-statements/
+https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-14-3-foreach-loops/
+https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-15-1-getting-random-numbers-for-the-game/
+https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/lesson-16-1-writing-the-function-to-move-the-player/
