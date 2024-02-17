@@ -1,6 +1,0 @@
-C:\rpg2_pa\engine\bin\Debug\engine.dll
-C:\rpg2_pa\engine\bin\Debug\engine.pdb
-C:\rpg2_pa\engine\obj\Debug\engine.csproj.AssemblyReference.cache
-C:\rpg2_pa\engine\obj\Debug\engine.csproj.CoreCompileInputs.cache
-C:\rpg2_pa\engine\obj\Debug\engine.dll
-C:\rpg2_pa\engine\obj\Debug\engine.pdb
