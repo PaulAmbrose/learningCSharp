@@ -1,0 +1,10 @@
+Player goes to locations on a space station
+Player needs codes to enter each location, player has a list of codes to try
+Each location may have an alien to defeat
+Aim is to reach your escape pod before taking too many hits or oxygen runs out
+Oxygen goes down each turn, and x2 when fighting
+
+
+Player
+Location
+Alien

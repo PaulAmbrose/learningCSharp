@@ -1,0 +1,12 @@
+C:\rpg2_pa\rpg2_pa\bin\Debug\rpg2_pa.exe.config
+C:\rpg2_pa\rpg2_pa\bin\Debug\rpg2_pa.exe
+C:\rpg2_pa\rpg2_pa\bin\Debug\rpg2_pa.pdb
+C:\rpg2_pa\rpg2_pa\bin\Debug\engine.dll
+C:\rpg2_pa\rpg2_pa\bin\Debug\engine.pdb
+C:\rpg2_pa\rpg2_pa\obj\Debug\rpg2_pa.csproj.AssemblyReference.cache
+C:\rpg2_pa\rpg2_pa\obj\Debug\rpg2_pa.Properties.Resources.resources
+C:\rpg2_pa\rpg2_pa\obj\Debug\rpg2_pa.csproj.GenerateResource.cache
+C:\rpg2_pa\rpg2_pa\obj\Debug\rpg2_pa.csproj.CoreCompileInputs.cache
+C:\rpg2_pa\rpg2_pa\obj\Debug\rpg2_pa.csproj.CopyComplete
+C:\rpg2_pa\rpg2_pa\obj\Debug\rpg2_pa.exe
+C:\rpg2_pa\rpg2_pa\obj\Debug\rpg2_pa.pdb
